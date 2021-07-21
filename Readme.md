@@ -3,6 +3,8 @@
 * Студент: [Максим Калинин](https://htmlacademy.ru//profile/id120631)
 * Наставник: [Артур Трифонов](https://htmlacademy.ru/profile/wrgraff)
 
+Опубликованная версия — [kalininmax.github.io/mishka](https://kalininmax.github.io/mishka)
+
 ## Техническое задание
 
 ### 1\. Общие технические требования
